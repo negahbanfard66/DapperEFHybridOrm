@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "eY9LZDg+d9s=",
+  "success": true,
+  "projectFilePath": "D:\\Documents_Downloads_Desktop\\YoutubeProjects\\DapperEfHybrid\\Project\\DapperEfHybridSample\\DapperEfhybridSample.Application\\DapperEfhybridSample.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\msneg\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\msneg\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

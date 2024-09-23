@@ -1,0 +1,11 @@
+D:\Documents_Downloads_Desktop\YoutubeProjects\DapperEfHybrid\Project\DapperEfHybridSample\DapperEfHybridSample.Core\bin\Debug\net8.0\DapperEfHybridSample.Core.deps.json
+D:\Documents_Downloads_Desktop\YoutubeProjects\DapperEfHybrid\Project\DapperEfHybridSample\DapperEfHybridSample.Core\bin\Debug\net8.0\DapperEfHybridSample.Core.dll
+D:\Documents_Downloads_Desktop\YoutubeProjects\DapperEfHybrid\Project\DapperEfHybridSample\DapperEfHybridSample.Core\bin\Debug\net8.0\DapperEfHybridSample.Core.pdb
+D:\Documents_Downloads_Desktop\YoutubeProjects\DapperEfHybrid\Project\DapperEfHybridSample\DapperEfHybridSample.Core\obj\Debug\net8.0\DapperEfHybridSample.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents_Downloads_Desktop\YoutubeProjects\DapperEfHybrid\Project\DapperEfHybridSample\DapperEfHybridSample.Core\obj\Debug\net8.0\DapperEfHybridSample.Core.AssemblyInfoInputs.cache
+D:\Documents_Downloads_Desktop\YoutubeProjects\DapperEfHybrid\Project\DapperEfHybridSample\DapperEfHybridSample.Core\obj\Debug\net8.0\DapperEfHybridSample.Core.AssemblyInfo.cs
+D:\Documents_Downloads_Desktop\YoutubeProjects\DapperEfHybrid\Project\DapperEfHybridSample\DapperEfHybridSample.Core\obj\Debug\net8.0\DapperEfHybridSample.Core.csproj.CoreCompileInputs.cache
+D:\Documents_Downloads_Desktop\YoutubeProjects\DapperEfHybrid\Project\DapperEfHybridSample\DapperEfHybridSample.Core\obj\Debug\net8.0\DapperEfHybridSample.Core.dll
+D:\Documents_Downloads_Desktop\YoutubeProjects\DapperEfHybrid\Project\DapperEfHybridSample\DapperEfHybridSample.Core\obj\Debug\net8.0\refint\DapperEfHybridSample.Core.dll
+D:\Documents_Downloads_Desktop\YoutubeProjects\DapperEfHybrid\Project\DapperEfHybridSample\DapperEfHybridSample.Core\obj\Debug\net8.0\DapperEfHybridSample.Core.pdb
+D:\Documents_Downloads_Desktop\YoutubeProjects\DapperEfHybrid\Project\DapperEfHybridSample\DapperEfHybridSample.Core\obj\Debug\net8.0\ref\DapperEfHybridSample.Core.dll
