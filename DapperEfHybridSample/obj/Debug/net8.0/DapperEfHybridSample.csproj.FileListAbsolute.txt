@@ -81,3 +81,4 @@ D:\Documents_Downloads_Desktop\YoutubeProjects\DapperEfHybrid\Project\DapperEfHy
 D:\Documents_Downloads_Desktop\YoutubeProjects\DapperEfHybrid\Project\DapperEfHybridSample\DapperEfHybridSample\bin\Debug\net8.0\DapperEfhybridSample.Application.pdb
 D:\Documents_Downloads_Desktop\YoutubeProjects\DapperEfHybrid\Project\DapperEfHybridSample\DapperEfHybridSample\bin\Debug\net8.0\DapperEfHybridSample.Core.pdb
 D:\Documents_Downloads_Desktop\YoutubeProjects\DapperEfHybrid\Project\DapperEfHybridSample\DapperEfHybridSample\bin\Debug\net8.0\DapperEfHybridSample.Infrastructure.pdb
+D:\Documents_Downloads_Desktop\YoutubeProjects\DapperEfHybrid\Project\DapperEfHybridSample\DapperEfHybridSample\obj\Debug\net8.0\DapperEfHybridSample.sourcelink.json

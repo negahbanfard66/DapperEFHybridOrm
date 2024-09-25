@@ -13,3 +13,4 @@ D:\Documents_Downloads_Desktop\YoutubeProjects\DapperEfHybrid\Project\DapperEfHy
 D:\Documents_Downloads_Desktop\YoutubeProjects\DapperEfHybrid\Project\DapperEfHybridSample\DapperEfHybridSample.Infrastructure\obj\Debug\net8.0\refint\DapperEfHybridSample.Infrastructure.dll
 D:\Documents_Downloads_Desktop\YoutubeProjects\DapperEfHybrid\Project\DapperEfHybridSample\DapperEfHybridSample.Infrastructure\obj\Debug\net8.0\DapperEfHybridSample.Infrastructure.pdb
 D:\Documents_Downloads_Desktop\YoutubeProjects\DapperEfHybrid\Project\DapperEfHybridSample\DapperEfHybridSample.Infrastructure\obj\Debug\net8.0\ref\DapperEfHybridSample.Infrastructure.dll
+D:\Documents_Downloads_Desktop\YoutubeProjects\DapperEfHybrid\Project\DapperEfHybridSample\DapperEfHybridSample.Infrastructure\obj\Debug\net8.0\DapperEfHybridSample.Infrastructure.sourcelink.json

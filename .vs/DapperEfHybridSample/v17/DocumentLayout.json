@@ -1,7 +1,44 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Documents_Downloads_Desktop\\YoutubeProjects\\DapperEfHybrid\\Project\\DapperEfHybridSample\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CFBDEF17-9B36-4D42-9EC1-152019389852}|DapperEfHybridSample.Infrastructure\\DapperEfHybridSample.Infrastructure.csproj|d:\\documents_downloads_desktop\\youtubeprojects\\dapperefhybrid\\project\\dapperefhybridsample\\dapperefhybridsample.infrastructure\\repositories\\efcoreproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFBDEF17-9B36-4D42-9EC1-152019389852}|DapperEfHybridSample.Infrastructure\\DapperEfHybridSample.Infrastructure.csproj|solutionrelative:dapperefhybridsample.infrastructure\\repositories\\efcoreproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A78C5F6E-E2F5-42F6-9D6C-185FBE955FBE}|DapperEfhybridSample.Application\\DapperEfhybridSample.Application.csproj|d:\\documents_downloads_desktop\\youtubeprojects\\dapperefhybrid\\project\\dapperefhybridsample\\dapperefhybridsample.application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A78C5F6E-E2F5-42F6-9D6C-185FBE955FBE}|DapperEfhybridSample.Application\\DapperEfhybridSample.Application.csproj|solutionrelative:dapperefhybridsample.application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5E9D818-452A-46EA-9C70-1EF05E189ABD}|DapperEfHybridSample\\DapperEfHybridSample.csproj|d:\\documents_downloads_desktop\\youtubeprojects\\dapperefhybrid\\project\\dapperefhybridsample\\dapperefhybridsample\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5E9D818-452A-46EA-9C70-1EF05E189ABD}|DapperEfHybridSample\\DapperEfHybridSample.csproj|solutionrelative:dapperefhybridsample\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFBDEF17-9B36-4D42-9EC1-152019389852}|DapperEfHybridSample.Infrastructure\\DapperEfHybridSample.Infrastructure.csproj|d:\\documents_downloads_desktop\\youtubeprojects\\dapperefhybrid\\project\\dapperefhybridsample\\dapperefhybridsample.infrastructure\\repositories\\dapperproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFBDEF17-9B36-4D42-9EC1-152019389852}|DapperEfHybridSample.Infrastructure\\DapperEfHybridSample.Infrastructure.csproj|solutionrelative:dapperefhybridsample.infrastructure\\repositories\\dapperproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5E9D818-452A-46EA-9C70-1EF05E189ABD}|DapperEfHybridSample\\DapperEfHybridSample.csproj|d:\\documents_downloads_desktop\\youtubeprojects\\dapperefhybrid\\project\\dapperefhybridsample\\dapperefhybridsample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5E9D818-452A-46EA-9C70-1EF05E189ABD}|DapperEfHybridSample\\DapperEfHybridSample.csproj|solutionrelative:dapperefhybridsample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5E9D818-452A-46EA-9C70-1EF05E189ABD}|DapperEfHybridSample\\DapperEfHybridSample.csproj|d:\\documents_downloads_desktop\\youtubeprojects\\dapperefhybrid\\project\\dapperefhybridsample\\dapperefhybridsample\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E5E9D818-452A-46EA-9C70-1EF05E189ABD}|DapperEfHybridSample\\DapperEfHybridSample.csproj|solutionrelative:dapperefhybridsample\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47DDA33D-B340-453A-9F6B-E8E67B90F212}|DapperEfHybridSample.Core\\DapperEfHybridSample.Core.csproj|d:\\documents_downloads_desktop\\youtubeprojects\\dapperefhybrid\\project\\dapperefhybridsample\\dapperefhybridsample.core\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47DDA33D-B340-453A-9F6B-E8E67B90F212}|DapperEfHybridSample.Core\\DapperEfHybridSample.Core.csproj|solutionrelative:dapperefhybridsample.core\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5E9D818-452A-46EA-9C70-1EF05E189ABD}|DapperEfHybridSample\\DapperEfHybridSample.csproj|d:\\documents_downloads_desktop\\youtubeprojects\\dapperefhybrid\\project\\dapperefhybridsample\\dapperefhybridsample\\dapperefhybridsample.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{E5E9D818-452A-46EA-9C70-1EF05E189ABD}|DapperEfHybridSample\\DapperEfHybridSample.csproj|solutionrelative:dapperefhybridsample\\dapperefhybridsample.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A78C5F6E-E2F5-42F6-9D6C-185FBE955FBE}|DapperEfhybridSample.Application\\DapperEfhybridSample.Application.csproj|d:\\documents_downloads_desktop\\youtubeprojects\\dapperefhybrid\\project\\dapperefhybridsample\\dapperefhybridsample.application\\dapperefhybridsample.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A78C5F6E-E2F5-42F6-9D6C-185FBE955FBE}|DapperEfhybridSample.Application\\DapperEfhybridSample.Application.csproj|solutionrelative:dapperefhybridsample.application\\dapperefhybridsample.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,6 +67,122 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Documents_Downloads_Desktop\\YoutubeProjects\\DapperEfHybrid\\Project\\DapperEfHybridSample\\DapperEfHybridSample\\appsettings.json",
+              "RelativeDocumentMoniker": "DapperEfHybridSample\\appsettings.json",
+              "ToolTip": "D:\\Documents_Downloads_Desktop\\YoutubeProjects\\DapperEfHybrid\\Project\\DapperEfHybridSample\\DapperEfHybridSample\\appsettings.json",
+              "RelativeToolTip": "DapperEfHybridSample\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-24T18:54:42.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Documents_Downloads_Desktop\\YoutubeProjects\\DapperEfHybrid\\Project\\DapperEfHybridSample\\DapperEfHybridSample\\Program.cs",
+              "RelativeDocumentMoniker": "DapperEfHybridSample\\Program.cs",
+              "ToolTip": "D:\\Documents_Downloads_Desktop\\YoutubeProjects\\DapperEfHybrid\\Project\\DapperEfHybridSample\\DapperEfHybridSample\\Program.cs",
+              "RelativeToolTip": "DapperEfHybridSample\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T16:40:52.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "D:\\Documents_Downloads_Desktop\\YoutubeProjects\\DapperEfHybrid\\Project\\DapperEfHybridSample\\DapperEfHybridSample.Core\\Interfaces\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "DapperEfHybridSample.Core\\Interfaces\\IProductRepository.cs",
+              "ToolTip": "D:\\Documents_Downloads_Desktop\\YoutubeProjects\\DapperEfHybrid\\Project\\DapperEfHybridSample\\DapperEfHybridSample.Core\\Interfaces\\IProductRepository.cs",
+              "RelativeToolTip": "DapperEfHybridSample.Core\\Interfaces\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T16:35:17.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EfCoreProductRepository.cs",
+              "DocumentMoniker": "D:\\Documents_Downloads_Desktop\\YoutubeProjects\\DapperEfHybrid\\Project\\DapperEfHybridSample\\DapperEfHybridSample.Infrastructure\\Repositories\\EfCoreProductRepository.cs",
+              "RelativeDocumentMoniker": "DapperEfHybridSample.Infrastructure\\Repositories\\EfCoreProductRepository.cs",
+              "ToolTip": "D:\\Documents_Downloads_Desktop\\YoutubeProjects\\DapperEfHybrid\\Project\\DapperEfHybridSample\\DapperEfHybridSample.Infrastructure\\Repositories\\EfCoreProductRepository.cs",
+              "RelativeToolTip": "DapperEfHybridSample.Infrastructure\\Repositories\\EfCoreProductRepository.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAASwBMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T16:34:49.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DapperEfHybridSample",
+              "DocumentMoniker": "D:\\Documents_Downloads_Desktop\\YoutubeProjects\\DapperEfHybrid\\Project\\DapperEfHybridSample\\DapperEfHybridSample\\DapperEfHybridSample.csproj",
+              "RelativeDocumentMoniker": "DapperEfHybridSample\\DapperEfHybridSample.csproj",
+              "ToolTip": "D:\\Documents_Downloads_Desktop\\YoutubeProjects\\DapperEfHybrid\\Project\\DapperEfHybridSample\\DapperEfHybridSample\\DapperEfHybridSample.csproj",
+              "RelativeToolTip": "DapperEfHybridSample\\DapperEfHybridSample.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-24T12:52:05.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\Documents_Downloads_Desktop\\YoutubeProjects\\DapperEfHybrid\\Project\\DapperEfHybridSample\\DapperEfhybridSample.Application\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "DapperEfhybridSample.Application\\Services\\ProductService.cs",
+              "ToolTip": "D:\\Documents_Downloads_Desktop\\YoutubeProjects\\DapperEfHybrid\\Project\\DapperEfHybridSample\\DapperEfhybridSample.Application\\Services\\ProductService.cs",
+              "RelativeToolTip": "DapperEfhybridSample.Application\\Services\\ProductService.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAASwB4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T11:00:40.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DapperProductRepository.cs",
+              "DocumentMoniker": "D:\\Documents_Downloads_Desktop\\YoutubeProjects\\DapperEfHybrid\\Project\\DapperEfHybridSample\\DapperEfHybridSample.Infrastructure\\Repositories\\DapperProductRepository.cs",
+              "RelativeDocumentMoniker": "DapperEfHybridSample.Infrastructure\\Repositories\\DapperProductRepository.cs",
+              "ToolTip": "D:\\Documents_Downloads_Desktop\\YoutubeProjects\\DapperEfHybrid\\Project\\DapperEfHybridSample\\DapperEfHybridSample.Infrastructure\\Repositories\\DapperProductRepository.cs",
+              "RelativeToolTip": "DapperEfHybridSample.Infrastructure\\Repositories\\DapperProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T10:07:19.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\Documents_Downloads_Desktop\\YoutubeProjects\\DapperEfHybrid\\Project\\DapperEfHybridSample\\DapperEfHybridSample\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "DapperEfHybridSample\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\Documents_Downloads_Desktop\\YoutubeProjects\\DapperEfHybrid\\Project\\DapperEfHybridSample\\DapperEfHybridSample\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "DapperEfHybridSample\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwCUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T22:05:50.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DapperEfhybridSample.Application",
+              "DocumentMoniker": "D:\\Documents_Downloads_Desktop\\YoutubeProjects\\DapperEfHybrid\\Project\\DapperEfHybridSample\\DapperEfhybridSample.Application\\DapperEfhybridSample.Application.csproj",
+              "RelativeDocumentMoniker": "DapperEfhybridSample.Application\\DapperEfhybridSample.Application.csproj",
+              "ToolTip": "D:\\Documents_Downloads_Desktop\\YoutubeProjects\\DapperEfHybrid\\Project\\DapperEfHybridSample\\DapperEfhybridSample.Application\\DapperEfhybridSample.Application.csproj",
+              "RelativeToolTip": "DapperEfhybridSample.Application\\DapperEfhybridSample.Application.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-24T10:02:14.3Z",
+              "EditorCaption": ""
             }
           ]
         }

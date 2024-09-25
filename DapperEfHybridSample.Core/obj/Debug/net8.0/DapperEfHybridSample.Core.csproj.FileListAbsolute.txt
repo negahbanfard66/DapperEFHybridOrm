@@ -9,3 +9,4 @@ D:\Documents_Downloads_Desktop\YoutubeProjects\DapperEfHybrid\Project\DapperEfHy
 D:\Documents_Downloads_Desktop\YoutubeProjects\DapperEfHybrid\Project\DapperEfHybridSample\DapperEfHybridSample.Core\obj\Debug\net8.0\refint\DapperEfHybridSample.Core.dll
 D:\Documents_Downloads_Desktop\YoutubeProjects\DapperEfHybrid\Project\DapperEfHybridSample\DapperEfHybridSample.Core\obj\Debug\net8.0\DapperEfHybridSample.Core.pdb
 D:\Documents_Downloads_Desktop\YoutubeProjects\DapperEfHybrid\Project\DapperEfHybridSample\DapperEfHybridSample.Core\obj\Debug\net8.0\ref\DapperEfHybridSample.Core.dll
+D:\Documents_Downloads_Desktop\YoutubeProjects\DapperEfHybrid\Project\DapperEfHybridSample\DapperEfHybridSample.Core\obj\Debug\net8.0\DapperEfHybridSample.Core.sourcelink.json

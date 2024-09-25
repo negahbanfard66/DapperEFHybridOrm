@@ -18,17 +18,6 @@ namespace DapperEfHybridSample.Infrastructure.Repositories
         {
             _context = context;
         }
-
-        public async Task<IEnumerable<Product>> GetAllProductsAsync()
-        {
-            return await _context.Products.ToListAsync();
-        }
-
-        public async Task<Product> GetProductByIdAsync(int id)
-        {
-            return await _context.Products.FindAsync(id);
-        }
-
         public async Task CreateProductAsync(Product product)
         {
             _context.Products.Add(product);
@@ -50,5 +39,8 @@ namespace DapperEfHybridSample.Infrastructure.Repositories
                 await _context.SaveChangesAsync();
             }
         }
+
+        public Task<IEnumerable<Product>> GetAllProductsAsync() => throw new NotImplementedException();
+        public Task<Product> GetProductByIdAsync(int id) => throw new NotImplementedException();
     }
 }

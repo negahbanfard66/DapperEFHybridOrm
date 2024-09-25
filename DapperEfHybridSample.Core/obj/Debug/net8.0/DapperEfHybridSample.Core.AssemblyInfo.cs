@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DapperEfHybridSample.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+92706867b8c9ffae8b23d10870eb69b71f0c6556")]
 [assembly: System.Reflection.AssemblyProductAttribute("DapperEfHybridSample.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DapperEfHybridSample.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
